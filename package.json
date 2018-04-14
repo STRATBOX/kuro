@@ -1,0 +1,13 @@
+{
+  "name": "kuro",
+  "version": "0.0.1",
+  "description": "STRATBOX.IO - Kuro Design System",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "Pepeye",
+  "license": "MIT",
+  "devDependencies": {}
+}
